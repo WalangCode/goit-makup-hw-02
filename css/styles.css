@@ -118,13 +118,13 @@ body {
 }
 
 /* Section 4 */
-.section4-bgcolor {
+.sec-bgcolor {
   background-color: #f4f4fd;
 }
-.section4-imagebgcolor {
+.sec-imagebgcolor {
   background-color: #ffffff;
 }
-.section4-header {
+.sec-header {
   font-size: 36px;
   line-height: 1.11;
   text-align: center;
@@ -132,14 +132,14 @@ body {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.section4-nameofemployee {
+.sec-nameofemployee {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section4-subtext {
+.sec-subtext {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
