@@ -1,13 +1,12 @@
 :root {
   --bodytag-color: #434455;
   --background-color: #ffffff;
-  --font-familyforbody: "Roboto", sans-serif;
 }
 
 body {
   background-color: var(--background-color);
   color: var(--bodytag-color);
-  font-family: var(--font-familyforbody);
+  font-family: "Roboto", sans-serif;
 }
 /* Header */
 .link-style:hover {
