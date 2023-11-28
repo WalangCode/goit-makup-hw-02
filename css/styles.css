@@ -64,10 +64,10 @@ body {
 }
 
 /* Section 1 */
-.section1-background {
+.sec-one-background {
   background-color: #2e2f42;
 }
-.section1-text {
+.sec-one-text {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -75,7 +75,7 @@ body {
   color: #ffffff;
 }
 
-.section1-button {
+.sec-one-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
