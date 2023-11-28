@@ -1,4 +1,16 @@
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+
 /* Header */
+.link-style:hover {
+  color: #404bbf;
+}
+.link-style:focus {
+  color: #404bbf;
+}
 .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
@@ -61,7 +73,7 @@
 
 .section1-button {
   background-color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
