@@ -1,11 +1,11 @@
 :root {
-  --bodycolor: #434455;
-  --backgroundcolor: #ffffff;
+  --bodytag-color: #434455;
+  --background-color: #ffffff;
 }
 
 body {
-  background-color: var(--backgroundcolor);
-  color: var(--bodycolor);
+  background-color: var(--background-color);
+  color: var(--bodytag-color);
 }
 /* Header */
 .link-style:hover {
