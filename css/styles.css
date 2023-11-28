@@ -1,9 +1,12 @@
-body {
-  font-family: "Roboto", sans-serif;
-  color: #434455;
-  background-color: #ffffff;
+:root {
+  --bodycolor: #434455;
+  --backgroundcolor: #ffffff;
 }
 
+body {
+  background-color: var(--backgroundcolor);
+  color: var(--bodycolor);
+}
 /* Header */
 .link-style:hover {
   color: #404bbf;
