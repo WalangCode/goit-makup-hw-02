@@ -63,7 +63,7 @@ body {
   color: #404bbf;
 }
 
-/* Section 1 */
+/* Sectsecond
 .fsection-backgroundcolor{
   background-color: #2e2f42;
 }
@@ -94,14 +94,14 @@ body {
 }
 
 /* Section 2 */
-.section2-header {
+.second-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.section2-text {
+.second-text {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
