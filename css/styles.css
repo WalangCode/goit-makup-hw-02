@@ -64,10 +64,10 @@ body {
 }
 
 /* Section 1 */
-.sec-one-background {
+.firstsection-bccolor {
   background-color: #2e2f42;
 }
-.sec-one-text {
+.firstsection-text {
   font-size: 56px;
   line-height: 1.07;
   text-align: center;
@@ -75,7 +75,7 @@ body {
   color: #ffffff;
 }
 
-.sec-one-button {
+.firstsection-button {
   background-color: #4d5ae5;
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -86,10 +86,10 @@ body {
   cursor: pointer;
 }
 
-.section1-button:hover {
+.firstsection-button:hover {
   background-color: #404bbf;
 }
-.section1-button:focus {
+.firstsection-button:focus {
   background-color: #404bbf;
 }
 
