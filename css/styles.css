@@ -125,12 +125,13 @@ body {
   background-color: #ffffff;
 }
 .sec-header {
-  font-size: 36px;
-  line-height: 1.11;
+  font-size: 20px;
+  line-height: 1.2;
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  font-weight: 500;
 }
 .sec-nameofemployee {
   font-weight: 500;
