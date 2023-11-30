@@ -161,3 +161,37 @@ body {
   color: #f4f4fd;
   letter-spacing: 0.02em;
 }
+
+/* Profolio */
+/* Section 1 */
+.btn-portfolio{
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #4d5ae5;
+  background-color:  #F4F4FD;
+  cursor: pointer;
+}
+.btn-portfolio:hover{
+  color: #FFFFFF ;
+  background-color: #404BBF;
+}
+.btn-portfolio:focus{
+  color: #FFFFFF ;
+}
+/* Portfolio */
+.portfolio-header{
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+ color:#2e2f42;
+}
+.phar-port{
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
