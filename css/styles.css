@@ -164,37 +164,35 @@ body {
 
 /* Profolio */
 /* Section 1 */
-.btn-portfolio{
+.btn-portfolio {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #4d5ae5;
-  background-color:  #F4F4FD;
+  background-color: #f4f4fd;
   cursor: pointer;
 }
-.btn-portfolio:hover{
-  color: #FFFFFF ;
-  background-color: #404BBF;
+.btn-portfolio:hover {
+  color: #ffffff;
+  background-color: #404bbf;
 }
-.btn-portfolio:focus{
-  color: #FFFFFF ;
+.btn-portfolio:focus {
+  color: #ffffff;
+  background-color: #404bbf;
 }
 /* Portfolio */
-.portfolio-header{
+.portfolio-header {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
- color:#2e2f42;
+  color: #2e2f42;
 }
-.phar-port{
+.phar-port {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
- .sections{
-  
- }
